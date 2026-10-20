@@ -8,7 +8,7 @@
   <a href="mailto:wihedsakri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Braunschweig,_Germany-1F3A68?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Braunschweig, Germany">
 </p>
----
+
 
 ### 🙋‍♀️ About me
 
