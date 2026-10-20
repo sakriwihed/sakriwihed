@@ -117,33 +117,17 @@
   </tr>
   <tr>
     <td valign="top">
-      <h4>💶 <a href="https://github.com/sakriwihed/EuroSerialCheck">Euro Serial Check</a></h4>
-      Validates euro banknote serial numbers with check-digit calculation.<br>
-      <sub><code>C++</code> <code>CMake</code></sub>
-    </td>
-    <td valign="top">
       <h4>📚 <a href="https://github.com/sakriwihed/C-Problems">C Problems</a></h4>
       Exercises on pointers, structs, strings and data structures.<br>
       <sub><code>C</code></sub>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
+    <td valign="top">
       <h4>☕ <a href="https://github.com/sakriwihed/Java_OOP">Java OOP</a></h4>
       Knapsack problem, matrix operations and sorting.<br>
       <sub><code>Java</code></sub>
     </td>
   </tr>
 </table>
-
----
-
-<h2 align="center">💼 Experience</h2>
-
-| Role | Where | When | What I did |
-|---|---|---|---|
-| **Werkstudent** | Siemens Mobility | Oct 2025 – May 2026 | Digital learning content: training videos, interactive web-based trainings, infographics and animations |
-| **University tutor (mathematics)** | TU Braunschweig | Apr – Sep 2025 | Taught students and graded assignments and exams |
 
 ---
 
