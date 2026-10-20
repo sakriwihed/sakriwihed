@@ -1,30 +1,21 @@
-<h1 align="center">Hi, I'm Wihed Sakri 👋</h1>
-
+<h1 align="center">Hi, I'm Wihed Sakri <img src="assets/waving-engineer.png" width="56" alt="👩‍💻"></h1>
 <h3 align="center">Computer Science student @ TU Braunschweig · Software developer</h3>
-
 <p align="center">
   <i>Android with Kotlin · Java · C/C++ · Python. I enjoy building real projects in a team, from requirements to the finished app.</i>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/wihed-sakri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:wihedsakri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Braunschweig,_Germany-1F3A68?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Braunschweig, Germany">
 </p>
-
 ---
-
-### 🙋‍♀️ About me
-
-- 🎓 Studying **Computer Science** at TU Braunschweig
-- 💼 Currently working in **software development**
-- 📱 Building **Android apps** with Kotlin and Jetpack Compose
-- 👥 I like working in teams on real projects: **requirements, design, code, reviews and testing**
-
+🙋‍♀️ About me
+🎓 Studying Computer Science at TU Braunschweig
+💼 Currently working in software development
+📱 Building Android apps with Kotlin and Jetpack Compose
+👥 I like working in teams on real projects: requirements, design, code, reviews and testing
 ---
-
 <h2 align="center">🛠️ Tech stack</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -46,11 +37,8 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
-
 ---
-
 <h2 align="center">🚀 Featured team projects</h2>
-
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -97,11 +85,8 @@
     </td>
   </tr>
 </table>
-
 ---
-
 <h2 align="center">📂 More projects</h2>
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -128,9 +113,7 @@
     </td>
   </tr>
 </table>
-
 ---
-
 <p align="center">
   <i>Outside of code: chess ♟️ · writing ✍️ · cycling & running 🚴‍♀️</i><br><br>
   <a href="https://www.linkedin.com/in/wihed-sakri/">Let's connect on LinkedIn</a> 🤝
